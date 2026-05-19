@@ -39,7 +39,7 @@ Aqui está o arquivo completo e exato para você dar `Ctrl+A` para selecionar tu
 
 [cite_start]Este projeto implementa um sistema híbrido de análise de risco de crédito, unindo a capacidade de representação da lógica de primeira ordem (Prolog) com a calibração de incerteza estatística (Python/Scikit-Learn)[cite: 131, 132].
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 1. Ter o motor do [SWI-Prolog](https://www.swi-prolog.org/) instalado e configurado nas variáveis de ambiente (`PATH`) do sistema operacional.
@@ -63,7 +63,7 @@ python app.py
 
 ---
 
-## 📊 Resultados Obtidos
+##  Resultados Obtidos
 
 A execução do pipeline realiza a extração relacional via `pyswip`, monta o DataFrame enriquecido e treina o classificador estatístico. A saída gerada no console foi:
 
