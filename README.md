@@ -1,6 +1,6 @@
 # Aprendizado_Relacional_Estatistico
 
-# [cite_start]Análise de Risco de Crédito Híbrido com Aprendizado Relacional Estatístico (SRL) [cite: 126, 131, 164]
+# Análise de Risco de Crédito Híbrido com Aprendizado Relacional Estatístico (SRL) [cite: 126, 131, 164]
 
 [cite_start]Este projeto implementa um sistema híbrido de análise de risco de crédito, unindo a capacidade de representação da lógica de primeira ordem (Prolog) com a calibração de incerteza estatística (Python/Scikit-Learn)[cite: 132, 147].
 
