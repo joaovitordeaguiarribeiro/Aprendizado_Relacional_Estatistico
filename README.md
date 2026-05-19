@@ -30,10 +30,6 @@ python app.py
 Saída Relacional Estatística (Explicação XAI):
 0.00 :: risco(joao) :- conectado_a(joao, daniel, 3).
 
-Desculpa, amigue! Entendi agora o que você quis dizer. Você quer que eu mande o texto **completo** de todo o `README.md` junto — incluindo o início que já estava pronto e o final com a análise crítica —, para você não ter que ficar remendando pedaço por pedaço. Assim você só apaga o que está lá e cola tudo de uma vez.
-
-Aqui está o arquivo completo e exato para você dar `Ctrl+A` para selecionar tudo, `Ctrl+C` e colar direto lá no GitHub:
-
 ```markdown
 # Análise de Risco de Crédito Híbrido com Aprendizado Relacional Estatístico (SRL)
 
