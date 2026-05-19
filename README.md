@@ -33,7 +33,7 @@ Saída Relacional Estatística (Explicação XAI):
 ```markdown
 # Análise de Risco de Crédito Híbrido com Aprendizado Relacional Estatístico (SRL)
 
-[cite_start]Este projeto implementa um sistema híbrido de análise de risco de crédito, unindo a capacidade de representação da lógica de primeira ordem (Prolog) com a calibração de incerteza estatística (Python/Scikit-Learn)[cite: 131, 132].
+Este projeto implementa um sistema híbrido de análise de risco de crédito, unindo a capacidade de representação da lógica de primeira ordem (Prolog) com a calibração de incerteza estatística (Python/Scikit-Learn)
 
 ##  Como Executar o Projeto
 
